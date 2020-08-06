@@ -231,7 +231,7 @@
     },
     {
       "id": 10,
-      "activityId": 1,
+      "activityId": 2,
       "patientName": "Salazar Frances",
       "days": 2,
       "status": "GOOD",
