@@ -1,0 +1,11 @@
+{
+  "name": "peg-teste-front",
+  "version": "0.1.0",
+  "scripts": {
+    "server": "npx ./node_modules/json-server/lib/cli/bin.js server/db.json --routes server/routes.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "license": "UNLICENSED"
+}
