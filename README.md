@@ -14,13 +14,13 @@ Your challenge is to build a vue.js app that reproduce one of ours screen with m
 ## Required
 - Implement layout;
 - Use some features of ES6+;
-- Use any additional library;
 - Show us your work through your commit history;
 - Use test server data;
 
 ## Recommendations
 - Use vue-cli to create your project;
-- All images you need is in `/assets` directory
+- All images you need is in `/assets` directory;
+- Use any additional library;
 
 ## Bonus
 - Layout responsiveness;
