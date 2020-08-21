@@ -50,7 +50,8 @@ Your challenge is to build a vue.js app that reproduce one of ours screen with m
 > It's possible to complete the test with routes `/activities` and `/activity/:activityId/cards`, but you can also use: `/activity/:activityId` and `/cards`
 
 ## Submission instructions
-1. Create another branch with your name and submit as a pull request for us;
+1. Make a fork of this repo;
+1. Create a branch with your name and submit as a pull request for us;
 2. Create a new readme file with the instructions to run the project, and add any comments that you think is relevant.
 
 ## Questions? 
