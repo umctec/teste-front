@@ -179,8 +179,8 @@
       "billSources": [
         { "label": "Conta", "value": 792909 },
         { "label": "Atend.", "value": "AT893893" },
-        { "label": "Remessa", "value": 893692 },
-        { "label": "Lote", "value": 893663 }
+        { "label": "Remessa", "value": null },
+        { "label": "Lote", "value": null }
       ],
       "value": 453.98,
       "pendencies": 2,
@@ -200,7 +200,7 @@
         { "label": "Conta", "value": 792908 },
         { "label": "Atend.", "value": "AT893892" },
         { "label": "Remessa", "value": 893691 },
-        { "label": "Lote", "value": 893661 }
+        { "label": "Lote", "value": null }
       ],
       "value": 453.98,
       "pendencies": 2,
@@ -231,6 +231,46 @@
     },
     {
       "id": 10,
+      "activityId": 1,
+      "patientName": "Cristiano Rizza Neto",
+      "days": 33,
+      "status": "DELAYED",
+      "healthInsurance": "Saude Golden",
+      "billSources": [
+        { "label": "Conta", "value": 156682 },
+        { "label": "Atend.", "value": "AT265410" },
+        { "label": "Remessa", "value": 33281 },
+        { "label": "Lote", "value": null }
+      ],
+      "value": 287.50,
+      "pendencies": 0,
+      "billTypes": ["R"],
+      "showAttachment": true,
+      "showDocument": true,
+      "hasPendingDocument": true
+    },
+    {
+      "id": 11,
+      "activityId": 1,
+      "patientName": "Jessica Felix Lazzarini",
+      "days": 3,
+      "status": "GOOD",
+      "healthInsurance": "Unicorp Blue",
+      "billSources": [
+        { "label": "Conta", "value": 166911 },
+        { "label": "Atend.", "value": "AT275825" },
+        { "label": "Remessa", "value": 33803 },
+        { "label": "Lote", "value": null }
+      ],
+      "value": 251.43,
+      "pendencies": 2,
+      "billTypes": ["Q"],
+      "showAttachment": true,
+      "showDocument": true,
+      "hasPendingDocument": false
+    },
+    {
+      "id": 12,
       "activityId": 2,
       "patientName": "Salazar Frances",
       "days": 2,

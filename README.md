@@ -1,4 +1,4 @@
-[![](/assets/peg-contas.png)]()
+[![](/peg-contas.png)]()
 
 # Front end code challenge
 Hello!
@@ -19,16 +19,18 @@ Your challenge is to build a vue.js app that reproduce one of ours screen with m
 
 ## Recommendations
 - Use vue-cli to create your project;
-- All images you need is in `/assets` directory;
+- All the assets you need is in `/assets/` directory;
 - Use any additional library;
 
 ## Bonus
 - Layout responsiveness;
 - Use any CSS preprocessor;
 - Select of activities;
-> You have to change the route when you select a new actvity
+> You have to change the route when you select a new activity and show at the url the id of this activity. The same when you change the page
 - Filter "Organizar por:";
-> Must have options ["Prioridade(SLA)" and "Receber documentos"]. When you filter by the first option you have to reorganize the card by the highest value in the variable `days`. In the second filter you have to show only the cards with the propertie `hasPendingDocument = true`
+> Must have options ["Prioridade(SLA)" and "Receber documentos"]. When you filter by the first option you have to reorganize the card by the highest value in the variable `days`. In the second filter you have to show only the cards with the property `hasPendingDocument = true`
+- Select all;
+> Must select all checks at the cards that the property `hasPendingDocument = false`
 - Use some state managing solution;
 - Unit tests or any other test you think is important.
 - Host the website on the service of your choice;
@@ -50,9 +52,9 @@ Your challenge is to build a vue.js app that reproduce one of ours screen with m
 > It's possible to complete the test with routes `/activities` and `/activity/:activityId/cards`, but you can also use: `/activity/:activityId` and `/cards`
 
 ## Submission instructions
-1. Make a fork of this repo;
-1. Create a branch with your name and submit as a pull request for us;
-2. Create a new readme file with the instructions to run the project, and add any comments that you think is relevant.
+1. Create a GitHub repository for the test;
+2. Create a new readme file with the instructions to run the project, and add any comments that you think is relevant;
+3. You can make the repository public or enable access for our devs: maths-santos or oidsjr.
 
 ## Questions? 
-> If you have any questions, you can send us a message and we will clear things up for you :)
+> If you have any questions, you can create an issue on our repository and we will clear things up for you :)
