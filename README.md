@@ -54,7 +54,7 @@ Your challenge is to build a vue.js app that reproduce one of ours screen with m
 ## Submission instructions
 1. Create a GitHub repository for the test;
 2. Create a new readme file with the instructions to run the project, and add any comments that you think is relevant;
-3. You can make the repository public or enable access for our devs: maths-santos or oidsjr.
+3. You can make the repository public or enable access for our devs: dsnjunior or edim.
 
 ## Questions? 
 > If you have any questions, you can create an issue on our repository and we will clear things up for you :)
