@@ -9,7 +9,7 @@ This is a front end code challenge designed to access the ability of a front-end
 We wish you the best of luck!
 
 ## Overview 
-Your challenge is to build a vue.js app that reproduce one of ours screen with mocked data. [![](/test-goal.jpg)]()
+Your challenge is to build a react or vue.js app that reproduce one of ours screen with mocked data. [![](/test-goal.jpg)]()
 
 ## Required
 - Implement layout;
@@ -18,7 +18,7 @@ Your challenge is to build a vue.js app that reproduce one of ours screen with m
 - Use test server data;
 
 ## Recommendations
-- Use vue-cli to create your project;
+- Use vue-cli or create-react-app to create your project;
 - All the assets you need is in `/assets/` directory;
 - Use any additional library;
 
@@ -43,7 +43,7 @@ Your challenge is to build a vue.js app that reproduce one of ours screen with m
 - Reusable Components
 - Libraries used
 - ES6 features
-- Vue Conventions
+- Vue/React Conventions
 
 ## How to run test server
 - Install npm package with terminal command `yarn` or `npm install`
